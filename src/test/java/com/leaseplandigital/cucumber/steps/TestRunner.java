@@ -9,7 +9,7 @@ glue="com.leaseplandigital.cucumber.serenity",
 dryRun= false, 
 strict=false,
 monochrome=true,
-tags= {"@temp"}
+tags= {"@GetRestrictList"}
 )
 public class TestRunner {
 
